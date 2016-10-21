@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net", "log4net\log4net.csproj", "{00FB7918-B8B6-4B1C-80C8-4C510924064E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F56C7CF-11CB-4F65-A7A9-74FE5CC23825}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FB7918-B8B6-4B1C-80C8-4C510924064E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FB7918-B8B6-4B1C-80C8-4C510924064E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FB7918-B8B6-4B1C-80C8-4C510924064E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FB7918-B8B6-4B1C-80C8-4C510924064E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
